@@ -11,8 +11,7 @@ A simple and interactive *Stone Paper Scissors* game built using *HTML, **CSS, a
 - Simple logic using vanilla JavaScript (no libraries)
 
 ## 🖼 Demo
-
-![Live-Demo](https://glowing-pegasus-57f189.netlify.app/)
+[Live-Demo](https://glowing-pegasus-57f189.netlify.app/)
 
 ## 📂 Project Structure
 ## 🕹 How to Play
